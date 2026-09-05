@@ -1,3 +1,11 @@
 .obsidian/
 .DS_Store
 .trash/
+
+# 영상 작업 결과물
+*.mp4
+*.mov
+*.srt
+*.ass
+*.tsv
+out/
